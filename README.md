@@ -16,8 +16,8 @@
 
 ### 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=lucamcwood&show_icons=true&theme=dracula" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucamcwood&layout=compact&theme=dracula" width="40%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=lucamcwood&show_icons=true&theme=dracula" width="48%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucamcwood&layout=compact&theme=dracula" width="40%" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=BD93F9,FF79C6,8BE9FD&height=80&section=footer" />
 
